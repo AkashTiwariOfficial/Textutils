@@ -1,28 +1,27 @@
-# TextUtils 🔤 – React Text Utility App
+# 🔤 TextUtils – React Text Utility App
 
-**TextUtils** is a lightweight React app for analyzing and transforming text in useful ways. It allows users to manipulate text, copy it, clear it, and get real-time statistics.
+**TextUtils** is a lightweight and responsive React-based web app that allows users to analyze and manipulate text in various ways. Whether you're editing content, removing extra spaces, or checking character stats—TextUtils helps you do it quickly.
 
-## 🔧 Features
+🚀 **Live Demo:**  
+👉 [https://text-utils-word.netlify.app](https://text-utils-word.netlify.app)
 
-- Convert text to **uppercase** and **lowercase**
-- Remove **extra spaces**
-- **Copy** text to clipboard
-- Get **word and character count**
-- Toggle between **Light and Dark mode**
-- Real-time **preview** of text
+---
 
-## 🚀 Getting Started
+## ✨ Features
+
+- ✅ Convert text to **Uppercase** and **Lowercase**
+- 🧹 Remove **extra spaces**
+- 📋 Copy text to **clipboard**
+- 🔢 View **word and character** count
+- 🌓 Toggle between **Light and Dark** mode
+- 👁️ Real-time **live preview**
+
+---
+
+## 🛠️ Getting Started
 
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/AkashTiwariOfficial/Textutils.git
 cd Textutils
-
----
-
-## 🌐 Live Website
-
-You can access the deployed version of this project here:  
-👉 [https://text-utils-word.netlify.app](https://text-utils-word.netlify.app)
-
